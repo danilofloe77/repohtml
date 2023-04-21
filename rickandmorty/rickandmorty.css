@@ -1,0 +1,17 @@
+.header1{
+    border:solid 3px red;
+    padding:10px;
+    padding-left: 12%;
+    padding-right: 0%;
+    background-color: rgba(0, 0, 0, 0.295);
+    font-style: oblique;
+}
+.informacion{
+    border: dotted 3px red;
+    margin-left: 30px;
+    margin-right: 450px;
+}
+.imagen-rick{
+    display: block;
+    float: right;
+}
